@@ -36,7 +36,7 @@ This PowerShell script is designed for ransomware simulation to test detection c
 3. Monitor the output for completion and any errors.
 
 ## Disclaimer
-- This script is for authorized testing and educational purposes only.
+- This script is for authorised testing and educational purposes only.
 - Ensure you have explicit permission to run this simulation in your environment.
 
 ## Troubleshooting
