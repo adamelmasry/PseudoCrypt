@@ -5,7 +5,7 @@ This PowerShell script is designed for ransomware simulation to test detection c
 
 ## Prerequisites
 - PowerShell 5.1 or later.
-- Ensure execution policy allows script execution (consult your organization's policy).
+- Ensure execution policy allows script execution (consult your organisation's policy).
 
 ## Setup Instructions
 1. **Directory and File Setup**: 
